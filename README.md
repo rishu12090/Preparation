@@ -1,3 +1,3 @@
 # Preparation
 College Codes
-Author = Rishabh Yadav
+Author = Rishabh Yadav(WoW)
